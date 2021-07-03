@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://hit.yhype.me/github/profile?user_id=85139752)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
 **jineshaws1990/jineshaws1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
