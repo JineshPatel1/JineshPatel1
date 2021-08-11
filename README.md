@@ -1,7 +1,7 @@
 ### Hi there I am [Jinesh](https://jineshkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-![twitter-follower](https://img.shields.io/twitter/follow/pateljinesh1990?style=social)
+![twitter-follower](https://img.shields.io/twitter/follow/JineshkumarP?style=social)
 
 ---
 
