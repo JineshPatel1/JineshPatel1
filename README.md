@@ -4,9 +4,11 @@ Aspiring Cloud Architect and DevOps Engineer.
 I share some projects that I worked on.<br/>
 Note : Not all Projects are mine. I work on them to Learn, Improve and CI/CD DevOps Practices. 
   
-Thanks for Stopping by. Check out my Twitter for more Cloud stuff.
+Thanks for Stopping by. Check out my Twitter and Blog for more Cloud stuff.
   
 ![twitter-follower](https://img.shields.io/twitter/follow/JineshkumarP?style=social)
+
+![Blog.Jineshkumar.com](https://blog.jineshkumar.com)
    
 ---
 
