@@ -1,13 +1,13 @@
 ### Hi there I am [Jinesh](https://jineshkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
-Wanna be Cloud Architect and DevOps Engineer. 
-I share some projects that I worked on. 
-Note : Not all Projects are mine. I work on them to improve and CI/CD
-
+Wanna be Cloud Architect and DevOps Engineer.  
+I share some projects that I worked on.  
+Note : Not all Projects are mine. I work on them to improve and CI/CD  
+  
 Thanks for Stopping by. Check out my Twitter for more Cloud stuff.
-
+  
 ![twitter-follower](https://img.shields.io/twitter/follow/JineshkumarP?style=social)
-
+   
 ---
 
 ### Languages and tools ⚙️
