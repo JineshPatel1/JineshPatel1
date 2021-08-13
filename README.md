@@ -1,7 +1,7 @@
 ### Hi there I am [Jinesh](https://jineshkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 Aspiring Cloud Architect and DevOps Engineer.  
-I share some projects that I worked on.
+I share some projects that I worked on.<br/>
 Note : Not all Projects are mine. I work on them to Learn, Improve and CI/CD DevOps Practices. 
   
 Thanks for Stopping by. Check out my Twitter for more Cloud stuff.
