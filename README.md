@@ -2,7 +2,6 @@
 <br/>
 Aspiring Cloud Architect and DevOps Engineer.  
 I share some projects that I worked on.<br/>
-Note : Not all Projects are mine. I work on them to Learn, Improve and CI/CD DevOps Practices. 
   
 Thanks for Stopping by. Check out my Twitter and Blog for more Cloud stuff.
   
