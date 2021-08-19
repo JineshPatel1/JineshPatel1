@@ -8,6 +8,8 @@ Thanks for Stopping by. Check out my Twitter and Blog for more Cloud stuff.
 ![twitter-follower](https://img.shields.io/twitter/follow/JineshkumarP?style=social)
 
 [Blog.Jineshkumar.com](https://blog.jineshkumar.com)
+
+[Jineshkumar.com](https://jineshkumar.com)
    
 ---
 
