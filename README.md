@@ -27,7 +27,7 @@ Thanks for Stopping by. Check out my Twitter and Blog for more Cloud stuff.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Veeam Software
+- 🔭 I’m currently working on ... Avanade
 🌱 I’m currently learning ... Python, JavaScript, Cloud Deployement, Serverless , Containers, Kubernates
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
